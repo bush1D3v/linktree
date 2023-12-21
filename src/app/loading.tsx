@@ -9,7 +9,7 @@ export default function Loading(): ReactElement {
     >
       <svg
         aria-hidden="true"
-        className="w-1/6 h-1/6 animate-spin fill-darkBlue"
+        className="w-1/6 h-1/6 animate-spin fill-saturatedBlur"
         viewBox="0 0 100 101"
         fill="none"
         xmlns="http://www.w3.org/2000/svg">
