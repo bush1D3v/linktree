@@ -13,9 +13,9 @@ export default function Profile(): ReactElement {
           height={200}
           alt="Foto de perfil"
         />
-        <figcaption className="text-xl font-bold">@bush1D3v</figcaption>
+        <figcaption className="text-xl font-bold text-center">@bush1D3v</figcaption>
       </figure>
-      <q className="font-bold">A minha magia é não desistir, jamais!</q>
+      <q className="font-bold text-center">A minha magia é não desistir, jamais!</q>
     </div>
   );
 }
