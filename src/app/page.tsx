@@ -25,7 +25,7 @@ export default function Home() {
       <ul className="flex gap-4 flex-col">
         <li>
           <LinkButton
-            href="https://www.linkedin.com/in/vj021/"
+            href="https://www.linkedin.com/in/devnavarro/"
             text="Linkedin"
             icon={<FaLinkedin />}
           />
