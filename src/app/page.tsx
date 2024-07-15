@@ -1,6 +1,5 @@
 import {
   FaInstagram,
-  FaWhatsapp,
   FaCamera,
   FaTiktok,
   FaTwitter,
@@ -56,13 +55,6 @@ export default function Home() {
             href="https://www.youtube.com/channel/UC9fwjcVCxHUiuj0Ve3Hs9pA"
             text="YouTube"
             icon={<FaYoutube />}
-          />
-        </li>
-        <li>
-          <LinkButton
-            href="https://api.whatsapp.com/send/?phone=5521995727079"
-            text="WhatsApp"
-            icon={<FaWhatsapp />}
           />
         </li>
         <li>
