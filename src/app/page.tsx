@@ -52,21 +52,21 @@ export default function Home() {
         </li>
         <li>
           <LinkButton
-            href="https://www.youtube.com/channel/UC9fwjcVCxHUiuj0Ve3Hs9pA"
+            href="https://www.youtube.com/@dev_navarro"
             text="YouTube"
             icon={<FaYoutube />}
           />
         </li>
         <li>
           <LinkButton
-            href="https://www.instagram.com/victorj.021/"
+            href="https://www.instagram.com/devnavarro/"
             text="Instagram"
             icon={<FaInstagram />}
           />
         </li>
         <li>
           <LinkButton
-            href="https://twitter.com/victorj_021"
+            href="https://x.com/dev__navarro"
             text="Twitter"
             icon={<FaTwitter />}
           />
