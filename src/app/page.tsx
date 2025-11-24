@@ -73,7 +73,7 @@ export default function Home() {
         </li>
         <li>
           <LinkButton
-            href="https://www.tiktok.com/devnavarro"
+            href="https://www.tiktok.com/@devnavarro"
             text="TikTok"
             icon={<FaTiktok />}
           />
